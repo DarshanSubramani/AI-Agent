@@ -1,0 +1,67 @@
+FINAL INTERVIEW REPORT
+
+Role: Data Analyst
+
+INTERVIEW TRANSCRIPT
+
+Question 1:
+What are the key principles of data normalization, and why is it essential in data analysis?
+
+Candidate Answer:
+Data normalization is organizing data properly to reduce duplication and maintain consistency. It is important in data analysis because clean and consistent data gives more accurate and reliable results.
+
+Score: 16/20 (The candidate partially explains the importance of data normalization but does not explicitly mention the key principles such as minimizing data redundancy and dependency. However, their explanation shows understanding of its importance in data analysis.)
+
+Question 2:
+How do you ensure data quality and integrity in a dataset, and what tools or techniques do you use?
+
+Candidate Answer:
+I ensure data quality by checking for missing values, duplicate records, incorrect data types, and inconsistent values. I also remove or correct invalid data before analysis. I use tools like Python with Pandas, SQL, and Excel for data cleaning and validation. These techniques help make the dataset accurate, consistent, and reliable for analysis.
+
+Score: 18/20 (The candidate identifies common methods for ensuring data quality and mentions specific tools used for validation. However, mentioning only a few specific tools may indicate a limited familiarity with the available tools and methods.)
+
+Question 3:
+What are the main differences between a pivot table and a cross-tabulation table in data analysis, and when would you use each?
+
+Candidate Answer:
+A pivot table is used to summarize and analyze data by grouping information based on different fields. It can calculate values such as sum, count, and average. A cross-tabulation table shows the relationship between two or more categorical variables by displaying their frequencies or counts. I would use a pivot table for flexible data summarization and reporting, while I would use a cross-tabulation table to compare categories and understand relationships between variables.
+
+Score: 17/20 (The candidate generally understands the main difference between the two and when to use each, but their explanation is slightly brief and may confuse the concept of a pivot table's ability to calculate values.)
+
+Question 4:
+How do you handle missing data in a dataset, and what are some common techniques used to impute or manage missing values?
+
+Candidate Answer:
+I first identify how much data is missing and understand why it is missing. If only a few records have missing values, I may remove those records. For important data, I can fill the missing values using techniques such as mean, median, or mode. I can also use forward fill or backward fill for some datasets. The technique depends on the type of data and the reason for the missing values.
+
+Score: 19/20 (The candidate discusses several valid methods for handling missing data and mentions specific imputation techniques, which demonstrates a good understanding of the topic.)
+
+Question 5:
+What is the concept of data visualization, and why is it an essential component of data analysis, making it easier to communicate insights to stakeholders?
+
+Candidate Answer:
+Data visualization is the process of representing data using charts, graphs, and other visual formats. It makes complex data easier to understand and helps us identify trends, patterns, and relationships. It is important because it allows us to communicate insights clearly to stakeholders and helps them make better decisions based on the data.
+
+Score: 19/20 (The candidate effectively explains the concept of data visualization and its benefits. However, their explanation does not explicitly mention how to choose the right visualizations or create interactive dashboards.)
+
+SCORING SUMMARY
+
+Theory Score: 89/100
+Overall Score: 89/100
+
+Strengths:
+- Clear explanations of concepts related to data quality, missing data, and data visualization
+- Good understanding of methods for handling missing data and techniques for imputation or management
+- Effective explanations of the use of pivot tables and cross-tabulation tables
+
+Weaknesses:
+- Brief or partially inaccurate explanations at times
+- Limited familiarity with specific tools and techniques for data quality and cleaning
+- Lack of explicit details on choosing the right data visualizations or creating interactive dashboards
+
+Final Feedback:
+The candidate demonstrates a good understanding of key concepts and methods in data analysis, especially in handling missing data and using various tools in data quality and validation. However, the brief or partially inaccurate explanations and limited familiarity with tools and techniques indicate that they may benefit from further research and practice.
+
+Recommendation: Strong candidate
+
+Explanation: The candidate's strengths outweigh their weaknesses, and their clear and informative explanations demonstrate a good grasp of the key concepts and methods in data analysis. They show potential for further growth in research and practice to refine their knowledge and skills.

@@ -1,0 +1,32 @@
+FINAL INTERVIEW REPORT
+----------------------
+
+Role: Data Analyst
+
+Question Scores:
+- Question 1: 16/20
+- Question 2: 15/20
+- Question 3: 18/20
+- Question 4: 14/20
+- Question 5: 16/20
+
+Theory Score: 79/100
+Overall Score: 79/100
+
+Strengths:
+- The candidate shows a good understanding of basic data analysis concepts, such as data visualization, Big Data, and data types.
+- They provide some relevant examples to support their answers.
+
+Weaknesses:
+- In Question 2, the candidate focuses only on the technical aspects of Big Data and does not mention its benefits or the importance of handling Big Data as a data analyst.
+- In Question 4, the candidate does not mention how they would identify duplicate rows, which is a crucial step in handling duplicates.
+- Some answers lack details or explanations, which makes them seem shallow.
+
+Final Feedback:
+- The candidate demonstrates a solid foundation in basic data analysis concepts but needs to improve their explanations and provide more context, especially in handling duplicate records and understanding Big Data.
+
+Recommendation:
+Good candidate
+
+Briefly explain the recommendation:
+The candidate shows promise, but their limited experience and shallow explanations require further preparation and training to become a confident and proficient data analyst.

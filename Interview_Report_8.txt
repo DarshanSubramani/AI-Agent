@@ -1,0 +1,76 @@
+FINAL INTERVIEW REPORT
+
+Role: Data analyst
+
+INTERVIEW TRANSCRIPT
+
+Question 1:
+What are the key differences between primary and secondary data, and when would you use each in a data analysis project?
+
+Candidate Answer:
+Primary data is data collected directly by the researcher for a specific purpose, such as through surveys, interviews, or experiments.
+
+Score: 14/20
+
+Partial marks were awarded because the candidate mentioned the types of primary data collection methods, but did not provide clear information on when to use each type of data.
+
+Question 2:
+What are measures of central tendency (mean, median, mode) and how are they used to summarize and describe a dataset?
+
+Candidate Answer:
+Measures of central tendency are used to summarize a dataset with a single value that represents its typical or central value.
+
+Score: 4/20
+
+The candidate correctly identified measures of central tendency, but failed to provide a clear explanation of how they are used to summarize and describe a dataset.
+
+Question 3:
+How do you approach identifying correlations in a dataset, and what are the potential limitations of using correlation to infer causation?
+
+Candidate Answer:
+I identify correlations by comparing two variables using a correlation coefficient, such as Pearson’s correlation. A value close to +1 indicates a strong positive relationship, while a value close to -1 indicates a strong negative relationship.
+
+Score: 14/20
+
+The candidate demonstrated a basic understanding of how to identify correlations using a correlation coefficient. However, they failed to provide clear information on the potential limitations of using correlation to infer causation.
+
+Question 4:
+What are the main advantages and disadvantages of using descriptive versus inferential statistics in data analysis?
+
+Candidate Answer:
+Descriptive statistics summarize and describe the data you already have, using measures like mean, median, mode, and standard deviation. They are simple to understand, but they cannot make conclusions about a larger population.
+
+Score: 16/20
+
+The candidate demonstrated a solid understanding of the main advantages and disadvantages of using descriptive statistics. However, they could have provided more information on inferential statistics.
+
+Question 5:
+What are examples of data visualization best practices to effectively communicate insights and trends in data to stakeholders?
+
+Candidate Answer:
+Data visualization best practices include choosing the right chart for the data, keeping the visualization simple and clear, using proper titles and labels, and highlighting important trends. We should also use consistent scales and avoid unnecessary details. These practices make insights easier for stakeholders to understand and help them make better decisions.
+
+Score: 18/20
+
+The candidate demonstrated a thorough understanding of data visualization best practices and provided specific examples.
+
+SCORING SUMMARY
+
+Theory Score: 66/100
+Overall Score: 66/100
+
+Strengths:
+- The candidate demonstrated a basic understanding of key concepts in data analysis.
+- They showed a solid understanding of data visualization best practices.
+- They were able to provide clear and concise answers on secondary data and descriptive statistics.
+
+Weaknesses:
+- The candidate struggled to provide clear explanations of key concepts.
+- They did not demonstrate a thorough understanding of primary data or correlation.
+- They could have provided more information on inferential statistics.
+
+Final Feedback:
+The candidate has a solid foundation in data analysis and data visualization. However, they need to work on providing clear and concise explanations of key concepts.
+
+Recommendation:
+Good candidate.

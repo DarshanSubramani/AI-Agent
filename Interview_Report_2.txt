@@ -1,0 +1,25 @@
+FINAL INTERVIEW REPORT
+----------------------
+
+Role: Data analyst
+
+Theory Score: 76/100
+Overall Score: (To be calculated after practical skills assessment)
+
+Strengths:
+- The candidate showed a good understanding of the basics of data analytics, including types of analytics and data governance.
+- They provided relevant and concise answers, mostly on point.
+- The candidate demonstrated a basic understanding of the roles of data dashboards and data warehouses.
+
+Weaknesses:
+- The candidate's answers could be more detailed and specific. For example, when explaining the difference between data governance and data quality, they only mentioned maintaining data accuracy and consistency without going into further details.
+- The candidate struggled to keep their answers relevant and sometimes veered off the main question. For example, the answer to question 5 was identical to the one for question 4.
+- The candidate did not effectively differentiate between data governance and data quality, which are related but distinct concepts.
+
+Final Feedback:
+The candidate demonstrated a good foundation in the basics of data analysis, but their answers could benefit from more depth and detail. It's essential to differentiate between related concepts, such as data governance and data quality, to showcase a more comprehensive understanding of the subject. To improve, the candidate should focus on refining their knowledge, especially in the areas of data governance and the differences between data dashboards and data warehouses.
+
+Practical skills assessment will still be necessary to determine the candidate's overall suitability for the role of a data analyst.
+
+Recommendation:
+Based on the theory questions, the candidate may be suitable for entry-level positions or further training, but a thorough practical skills assessment is necessary before making a final decision.

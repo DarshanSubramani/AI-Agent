@@ -1,0 +1,55 @@
+RETURN:
+
+FINAL INTERVIEW REPORT
+
+Role: Data analyst
+
+INTERVIEW TRANSCRIPT
+
+Question 1:
+What is the primary function of a data analyst in a business organization?
+Candidate Answer: A data analyst collects, cleans, analyzes, and interprets data to identify useful insights and trends. Their primary function is to help the organization make better, data-driven business decisions.
+Score: 16/20 (clear and accurate answer, but didn't explicitly mention "business growth" as the goal for such decisions. However the phrase 'better decisions' covers that part fairly well. However the answer is fairly well structured, concise and includes essential information.)
+
+Question 2:
+What are the key differences between quantitative and qualitative data analysis?
+Candidate Answer: Quantitative data analysis deals with numerical data and uses measurements, statistics, and calculations to identify patterns and relationships.
+Score: 17/20 (candidate has accurately identified key differences and described the characteristics of quantitative data analysis)
+
+Question 3:
+Which statistical measure is used to identify the strength of the relationship between two variables?
+Candidate Answer: It measures the strength and direction of the relationship between two variables.
+Score: 6/20 (insufficient information provided - the candidate could have provided the name of the statistical measure. Given such it is hard to score beyond that.)
+
+Question 4:
+What is the concept of correlation and how is it different from causation?
+Candidate Answer: [No answer provided]
+Score: 0/20 (no information provided)
+
+Question 5:
+How is the term 'bias' used in the context of data analysis and what are its common sources?
+Candidate Answer: [initially] +1 → Strong positive relationship
+ Score:  0/20 (the answer doesn't directly relate to 'bias' in the context of data analysis and instead describes a relationship or correlation; the answer has no useful information about bias as per the context of data analysis)
+
+SCORING SUMMARY
+
+Theory Score: 39/100
+Overall Score: Not Calculated as per provided information
+
+Strengths:
+- clear and concise answer
+
+Weaknesses:
+- incomplete answer in some questions which indicates a lack of preparation
+- did not provide the statistical measure as required in a data analysis interview.
+- The candidate's ability to identify the primary function of data analyst is satisfactory, however lacks precision and depth which is needed in business settings.
+- the ability to correctly identify statistical measures seems to be weak
+- The candidate's ability to understand data analysis concepts like correlation is lacking.
+- candidate has incomplete knowledge of bias which has critical implications for data analysis work
+- the response in question does not clearly indicate strong data analyst understanding of bias.
+
+Final Feedback:
+The candidate is a beginner and lacks some essential knowledge needed for data analysis work, in particular statistical measures, bias and their sources which would pose significant challenges for a real-world data analyst, especially one in charge of making high level business decisions.
+
+Recommendation:
+Requires Further Preparation.
